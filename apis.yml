@@ -1,21 +1,42 @@
 aid: universe
 name: Universe
-description: Universe is a company surfaced as a portfolio company of general-catalyst, gv and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: Universe is a no-code website builder that lets anyone design and publish
+  a custom website from a phone, tablet, or computer, using a drag-and-drop GRID block
+  system with built-in commerce, mail tools, analytics, and SEO. A 2023 Apple Design
+  Award winner with more than one million sites built, Universe is a Y Combinator W18
+  company backed by GV and General Catalyst. Universe is a consumer creation platform
+  and publishes no public developer API.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://universeapp.com/_assets/9081508d-60a7-4b26-a8e6-8bcb93b06d12?w=1200&h=630&crop=top&fit=crop
 url: https://raw.githubusercontent.com/api-evangelist/universe/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - general-catalyst
 - gv
-x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier: no-api
+x-tier-reason: consumer no-code website builder with no published developer API surface
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Website Builder
+- No-Code
+- eCommerce
+- Creator Economy
+- Small Business
+- Mobile
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +46,24 @@ maintainers:
 common:
 - type: Website
   url: https://univer.se
+- type: Pricing
+  url: https://univer.se/pricing
+- type: TermsOfService
+  url: https://univer.se/legal/terms
+- type: PrivacyPolicy
+  url: https://univer.se/legal/privacy-policy
+- type: Support
+  url: https://help.univer.se/en/
+- type: SignUp
+  url: https://web.univer.se/
+- type: GitHubOrganization
+  url: https://github.com/onuniverse
+- type: DomainSecurity
+  url: security/universe-domain-security.yml
+- type: LLMsTxt
+  url: llms/universe-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1

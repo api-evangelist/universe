@@ -1,0 +1,26 @@
+# Universe
+
+> Universe is a no-code website builder that lets anyone design and publish a custom website from a phone, tablet, or computer using a drag-and-drop GRID block system, with built-in commerce, mail, analytics, and SEO tools. Winner of a 2023 Apple Design Award, with more than one million sites built. Backed by GV and General Catalyst (YC W18). Universe publishes no public developer API.
+
+## Product
+
+- [Universe](https://univer.se/): Homepage for the Universe website builder
+- [Web app](https://web.univer.se/): Get started building a site in the browser
+- [iOS app](https://apps.apple.com/us/app/universe-website-builder/id1211437633): Universe Website Builder on the App Store
+- [Pricing](https://univer.se/pricing): Free, Creator, Pro, and Max plans
+- [Templates](https://univer.se/templates): Professionally designed site templates
+
+## Support
+
+- [Help Center](https://help.univer.se/en/): Getting started, grid editor, commerce and payments, domains, site management, analytics and SEO, account and billing
+
+## Company
+
+- [GitHub](https://github.com/onuniverse): Universe engineering organization (hiring exercises and open-source forks; no public API SDKs)
+- [Terms of Service](https://univer.se/legal/terms)
+- [Privacy Policy](https://univer.se/legal/privacy-policy)
+
+## Notes for agents
+
+- Universe has no published public API, developer portal, or API documentation as of 2026-07-21; api.univer.se is the private app backend (401 unauthenticated).
+- Wildcard *.univer.se subdomains serve customer-built sites, not Universe provider surfaces.

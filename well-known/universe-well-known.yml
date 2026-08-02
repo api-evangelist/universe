@@ -1,0 +1,24 @@
+generated: '2026-07-21'
+method: searched
+source: live HTTP probes of https://univer.se
+host: https://univer.se
+note: No /.well-known/ discovery documents are published. api.univer.se (the app
+  backend) returns 401 unauthenticated and publishes no discovery surface.
+  Wildcard *.univer.se subdomains serve user-built Universe sites, so 200s on
+  subdomains like developer./status./trust. are customer pages, not provider
+  surfaces.
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+- path: /llms.txt
+  status: 404
