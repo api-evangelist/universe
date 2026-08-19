@@ -26,7 +26,7 @@ x-backed-by:
 - gv
 x-tier: no-api
 x-tier-reason: consumer no-code website builder with no published developer API surface
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
