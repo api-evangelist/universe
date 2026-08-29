@@ -6,6 +6,17 @@ description: Universe is a no-code website builder that lets anyone design and p
   Award winner with more than one million sites built, Universe is a Y Combinator W18
   company backed by GV and General Catalyst. Universe is a consumer creation platform
   and publishes no public developer API.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
