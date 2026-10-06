@@ -39,7 +39,7 @@ x-tier: no-api
 x-tier-reason: consumer no-code website builder with no published developer API surface
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-21'
+modified: '2026-10-06'
 tags:
 - Company
 - Website Builder
@@ -63,6 +63,8 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- url: https://univer.se/blog
+  type: Blog
 - type: Website
   url: https://univer.se
 - type: Pricing
